@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="COSAC_CLIENT_AUTOMATION">
+
+<listeners>
+
+ <listener class-name="com.cosac.PageObject.TestListeners"> </listener>
+
+ </listeners>
+
+  <test name="COS_57GiftVouchers" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS_57GiftVouchers" />
+      
+      </classes>
+  </test>
+			
+  
+  <test name="COS106_MonitorBookings" enabled="false">				
+  
+    <classes>
+      <class name="com.cosac.TestCases.COS106_MonitorBookings" />	
+      </classes>
+  </test>
+  
+  <test name="COS107_Reports_CommissionEnquiry" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS107_Reports_CommissionEnquiry" />
+      </classes>
+  </test>	
+  
+  <test name="COS108_SummaryUpdateControlReport" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS108_SummaryUpdateControlReport" />
+      </classes>
+  </test>
+  
+  <test name="COS110_SalesCommissionBranchEnquiry" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS110_SalesCommissionBranchEnquiry" />
+      </classes>
+  </test>		
+  
+  
+  <test name="COS111_FinacialinterefaceReport" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS111_FinacialinterefaceReport" />
+      </classes>
+  </test>
+  
+   <test name="COS21_CustomerPickUp" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS21_CustomerPickUp" />
+      </classes>
+  </test>
+  
+   <test name="COS24_NewCustomerCASH" enabled="true">
+  <classes>
+      <class name="com.cosac.TestCases.COS24_NewCustomerCASH" />
+      </classes>
+  </test>
+  
+   <test name="COS25_NewCustomerReadyFinance" enabled="false">
+  <classes>
+      <class name="com.cosac.TestCases.COS25_NewCustomerReadyFinance" />
+      </classes>
+  </test>
+  
+   <test name="COS27_CashLoan" enabled="false">
+  <classes>
+      <class name="com.cosac.TestCases.COS27_CashLoan" />
+      </classes>
+  </test>
+  
+  <test name="COS29_RefundsAndCorrections" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS29_RefundsAndCorrections" />
+      </classes>
+  </test>
+  
+  <test name="COS30_CreditSanctioning" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS30_CreditSanctioning" />
+      </classes>	
+      
+  </test>
+  
+  <test name="COS34_GoodsReturn" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS34_GoodsReturn" />
+      </classes>
+  </test>
+  
+  
+    <test name="COS42_CreditCollections_CallCenter" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS42_CreditCollections_CallCenter" />
+      </classes>
+  </test>
+  
+  
+    <test name="COS43_Bailiffcollector" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS43_Bailiffcollector" />
+      </classes>
+  </test>
+  		
+  	
+  
+  
+  
+  
+  <test name="COS55_CustomizeMandatoryField" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS55_CustomizeMandatoryField" />
+      </classes>
+  </test>
+  
+  <test name="COS67_SystemConfiguration_CountryMaintenance" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS67_SystemConfiguration_CountryMaintenance" />	
+      </classes>
+  </test>
+  
+  <test name="COS68_Customise_Score_Band_Matrix" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS68_Customise_Score_Band_Matrix" />	
+      </classes>
+  </test>
+  
+  <test name="COS69_Customise_Scoring_Rules" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS69_Customise_Scoring_Rules" />
+      </classes>
+  </test>
+  
+  <test name="COS70_TransactionTypeMaintenance" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS70_TransactionTypeMaintenance" />
+      </classes>
+  </test>
+  
+  <test name="COS89_CodeMaintenance" enabled="false">
+    <classes>
+      <class name="com.cosac.TestCases.COS89_CodeMaintenance" />
+      </classes>
+  </test>
+  
+   <test name="COS28_CashierTotalingProcess" enabled="false">
+  
+    <classes>
+      <class name="com.cosac.TestCases.COS28_CashierTotalingProcess" />
+      </classes>
+  </test>
+   
+ </suite>						

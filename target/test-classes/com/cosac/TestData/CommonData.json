@@ -1,0 +1,256 @@
+
+
+
+{
+	"COS27": 
+	{
+		"CashAndLoan": 
+		{
+			
+			
+			"PersonalID"		         :"QA12242",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"Mary",
+			"LastName"		             :"Amelia",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",				
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"123456789",
+			"Email"                      :"ma@gmail.com",
+			"productCode"	             :"ORWE58",
+			"productQuantity"	         :"1",
+			"DeliveryDay"	             :"08",
+			"TenderedAmount"	         :"2300",
+			"NetIncome"	                 :"30000",
+			"MiscExpense"	             :"2500",
+			"EmployerName"	             :"Michelle",
+			"EmployerAdd1"	             :"ConstantSpringRd",
+			"EmployerAdd2"	             :" Kingston",
+			"EmployerPostal"	         :"18767",
+			"Ref1FirstName"	             :"Chida",
+			"Ref1SecName"	             :"C",
+			"Ref1Add1"	                 :"ConstantSpringRd",
+			"Ref1Add2"	                 :" Kingston",
+			"Ref1Postal"	             :"18767",
+			"Ref2FirstName"	             :"Shiva",
+			"Ref2SecName"	             :"S",
+			"Ref2Add1"	                 :"ConstantSpringRd",
+			"Ref2Add2"	                 :" Kingston",
+			"Ref2Postal"	             :"18767",
+			"PId"	                     :"1112",
+			"PIncome"	                 :"3456",
+			"PAddress"	                 :"2224",
+			"BranchCode"	             :"910"
+			
+			
+		}
+		
+	},
+	"COS21": 
+	{
+		"CashAndLoan": 
+		{
+			
+			
+			"PersonalID"		         :"2345243",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"Mary",
+			"LastName"		             :"Amelia",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",				
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"123456789",
+			"Email"                      :"ma@gmail.com",
+			"productCode"	             :"ORWE58",
+			"productQuantity"	         :"1",
+			"DeliveryDay"	             :"29",
+			"TenderedAmount"	         :"2300"
+			
+			
+		}
+		
+	},
+	"COS-21": 
+	{
+		"CustomerPickUp": 
+		{
+			
+			
+			"PersonalID"		         :"6345247",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"Mary",
+			"LastName"		             :"Amelia",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",				
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"123456789",
+			"Email"                      :"ma@gmail.com",
+			"productCode"	             :"ORWE58",
+			"productQuantity"	         :"1",
+			"DeliveryDay"	             :"29",
+			"TenderedAmount"	         :"2300"
+			
+			
+		}
+		
+	},
+	
+	"CashAndGo": 
+	{
+		"NewCustomerCASHAccount": 
+		{
+			
+			"PersonalID": "TO010630",
+            "DOB": "1967",
+            "FirstName": "Jane",
+            "LastName": "Doe",
+            "Address1": "10446 Jefferson Blvd, Suite 200",
+            "Address2": "Culver",
+            "Address3": "JM",
+            "PostalCode": "90232",
+            "Phone": "5642223467",
+            "Email": "janedoe@magento.com",
+            "productCode": "3260A5",
+            "productQuantity": "1",
+            "DeliveryInstructions": "Before delivery make a call",
+            "DeliveryDay": "29",
+            "TenderedAmount": "9999",
+            "Branch": "9",
+            "Day": "29"
+			
+			
+		}
+		
+	},
+	
+	
+	"RefundAndCorrection": 
+	{
+		"RefundCurrection": 
+		{
+	        "AccountNum": "910444257070",
+            "PaymentAccNum": "910444257070",
+	        "Amount": "100",
+	        "TenderAmount": "100",
+	        "Filename": "Vivek",
+	        "AuthoriseUser":"99995",
+	        "Password":"system%%"
+			
+			
+		}
+		
+	},
+	
+	"Goods": 
+	{
+		"GoodsReturn": 
+		{
+	        "accNo": "910444178600",
+            "branchCode": "910",
+	        "branchName": "910 COURTS CROSS ROADS",
+	        "CollectionValue": "i",
+	        "ReasonValue": "exchange",
+	        "comment": "faultygoods"
+			
+			
+		}
+		
+	},
+	
+	"ReadyFinnanceFData": 
+		{
+	"RFData": 
+		{
+			
+			"PersonalID"		         :"QA1117",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"Mary",
+			"LastName"		             :"Amelia",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",				
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"123456789",
+			"Email"                      :"ma@gmail.com",
+			"productCode"	             :"ORWE58",
+			"productQuantity"	         :"1",
+			"DeliveryDay"	             :"29",
+			"TenderedAmount"	         :"2300"
+			
+			
+		}
+		},
+		
+		"CreditSanc": 
+		{
+	"CreditSanctioning": 
+		{
+			
+			"PersonalID"		         :"QX12227",
+			"DOB"		                 :"1989",
+			"FirstName"		             :"Mary",
+			"LastName"		             :"Amelia",
+			"Address1"		             :"street1",
+			"Address2"		             :"street2",
+			"Address3"		             :"JM",				
+			"PostalCode"		         :"12345",
+			"Phone"		                 :"123456789",
+			"Email"                      :"ma@gmail.com",
+			"productCode"	             :"ORWE58",
+			"productQuantity"	         :"1",
+			"DeliveryDay"	             :"29",
+			"TenderedAmount"	         :"2300",
+			"NetIncome"	                 :"30000",
+			"MiscExpense"	             :"2500",
+			"EmployerName"	             :"Michelle",
+			"EmployerAdd1"	             :"ConstantSpringRd",
+			"EmployerAdd2"	             :" Kingston",
+			"EmployerPostal"	         :"18767",
+			"Ref1FirstName"	             :"Chida",
+			"Ref1SecName"	             :"C",
+			"Ref1Add1"	                 :"ConstantSpringRd",
+			"Ref1Add2"	                 :" Kingston",
+			"Ref1Postal"	             :"18767",
+			"Ref2FirstName"	             :"Shiva",
+			"Ref2SecName"	             :"S",
+			"Ref2Add1"	                 :"ConstantSpringRd",
+			"Ref2Add2"	                 :" Kingston",
+			"Ref2Postal"	             :"18767",
+			"PId"	                     :"1112",
+			"PIncome"	                 :"3456",
+			"PAddress"	                 :"2224",
+			"BranchCode"	             :"910"
+			
+			
+		}
+		},
+		
+		"GiftVoucher": 
+	
+	{	
+		"Gift": 
+		{	
+			"VoucherName": "0130",
+            "VoucherValue": "24",
+            "AccountNum": "344400354390",
+            "FileName": "122"
+            
+	    }
+	},
+	"Monitor": 
+	{	
+		"MonitorBooking": 
+		{	
+			"day": "1",
+            "Month": "4",
+            "data": "Datafile"
+ 
+            
+	    }
+	}
+	
+	
+}

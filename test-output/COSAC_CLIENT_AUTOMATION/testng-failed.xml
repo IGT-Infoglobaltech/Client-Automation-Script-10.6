@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [COSAC_CLIENT_AUTOMATION]">
+  <test thread-count="5" name="COS30_CreditSanctioning(failed)">
+    <classes>
+      <class name="com.cosac.TestCases.COS30_CreditSanctioning">
+        <methods>
+          <include name="COS30"/>
+        </methods>
+      </class> <!-- com.cosac.TestCases.COS30_CreditSanctioning -->
+    </classes>
+  </test> <!-- COS30_CreditSanctioning(failed) -->
+</suite> <!-- Failed suite [COSAC_CLIENT_AUTOMATION] -->

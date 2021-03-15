@@ -1,0 +1,42 @@
+2020-09-28 08:13:09,331 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked matchingrecord
+2020-09-28 08:15:50,778 [main] INFO COSAC_CLIENT_AUTOMATION - user clicked on credit
+2020-09-28 08:15:52,779 [main] INFO COSAC_CLIENT_AUTOMATION - user clicked on incomplete credit applications
+2020-09-28 08:16:10,449 [main] INFO COSAC_CLIENT_AUTOMATION - user unchecked 1st checkbox
+2020-09-28 08:16:17,099 [main] INFO COSAC_CLIENT_AUTOMATION - user unchecked 2nd checkbox
+2020-09-28 08:17:56,306 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked UW
+2020-09-28 08:18:01,410 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked Approve
+2020-09-28 08:18:06,514 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked GreenButton
+2020-09-28 08:26:54,392 [main] INFO COSAC_CLIENT_AUTOMATION - User is able to click to New Customer
+2020-09-28 08:27:56,351 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked matchingrecord
+2020-09-28 08:28:26,641 [main] INFO COSAC_CLIENT_AUTOMATION - User created RF Account
+2020-09-28 09:24:43,692 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Reports
+2020-09-28 09:24:51,706 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Sales Commission Enquiry
+2020-09-28 09:25:06,825 [main] INFO COSAC_CLIENT_AUTOMATION - User Selected Month
+2020-09-28 09:25:11,281 [main] INFO COSAC_CLIENT_AUTOMATION - User Selected Year
+2020-09-28 09:25:34,044 [main] INFO COSAC_CLIENT_AUTOMATION - User Clicked on Load Button
+2020-09-28 09:25:41,239 [main] INFO COSAC_CLIENT_AUTOMATION - User Clicked on Blank Button
+2020-09-28 09:25:48,406 [main] INFO COSAC_CLIENT_AUTOMATION - User able to get Commission Enquiery report
+2020-09-28 09:25:48,711 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Close Window
+2020-09-28 09:31:24,364 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Reports
+2020-09-28 09:31:32,375 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Sales Commission Enquiry
+2020-09-28 09:31:47,538 [main] INFO COSAC_CLIENT_AUTOMATION - User Selected Month
+2020-09-28 09:31:51,995 [main] INFO COSAC_CLIENT_AUTOMATION - User Selected Year
+2020-09-28 09:32:14,757 [main] INFO COSAC_CLIENT_AUTOMATION - User Clicked on Load Button
+2020-09-28 09:32:21,937 [main] INFO COSAC_CLIENT_AUTOMATION - User Clicked on Blank Button
+2020-09-28 09:32:29,145 [main] INFO COSAC_CLIENT_AUTOMATION - User able to get Commission Enquiery report
+2020-09-28 09:32:29,448 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Close Window
+2020-09-28 09:39:50,403 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Reports
+2020-09-28 09:39:58,418 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Sales Commission Enquiry
+2020-09-28 09:40:13,532 [main] INFO COSAC_CLIENT_AUTOMATION - User Selected Month
+2020-09-28 09:40:17,990 [main] INFO COSAC_CLIENT_AUTOMATION - User Selected Year
+2020-09-28 09:40:40,663 [main] INFO COSAC_CLIENT_AUTOMATION - User Clicked on Load Button
+2020-09-28 09:40:47,780 [main] INFO COSAC_CLIENT_AUTOMATION - User Clicked on Blank Button
+2020-09-28 09:40:54,922 [main] INFO COSAC_CLIENT_AUTOMATION - User able to get Commission Enquiery report
+2020-09-28 09:40:55,226 [main] INFO COSAC_CLIENT_AUTOMATION - User clicked on Close Window
+2020-09-28 11:40:41,050 [main] INFO COSAC_CLIENT_AUTOMATION - User is able to click to Customer
+2020-09-28 11:40:44,053 [main] INFO COSAC_CLIENT_AUTOMATION - User is able to click to New Customer
+2020-09-28 11:40:57,646 [main] INFO COSAC_CLIENT_AUTOMATION - User Entered CustomerID
+2020-09-28 11:41:36,229 [main] INFO COSAC_CLIENT_AUTOMATION - User User Clickes to Create CASH Customer
+2020-09-28 11:42:51,440 [main] INFO COSAC_CLIENT_AUTOMATION - User Clicked to Save Product
+2020-09-28 11:43:24,954 [main] INFO COSAC_CLIENT_AUTOMATION - User Clicked to Transaction
+2020-09-28 11:44:18,164 [main] INFO COSAC_CLIENT_AUTOMATION - User Completed Transaction Successfully
